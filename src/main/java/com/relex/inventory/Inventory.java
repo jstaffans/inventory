@@ -1,7 +1,6 @@
 package com.relex.inventory;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class Inventory {
 
